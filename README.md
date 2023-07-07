@@ -51,5 +51,5 @@ _Билет_  QR-код c уникальным кодом бронировани
 ## Ссылка на дипломный проект
 
 
--  Ссылка на githubPage: https://github.com/maximfmu91/js-cp-diploma
+-  Ссылка на githubPage: https://maximfmu91.github.io/js-cp-diploma/
       
